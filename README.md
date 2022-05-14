@@ -8,9 +8,13 @@ I used the CSS grid to display the buttons, I didn't use Bootstrap for this proj
 This was an exercise to put in practice several javaScript concepts such as:
 
 // arithmetic  && logical operators
+
 // switch
+
 // classes, constructors and parameters
+
 // arrow function
+
 // addEventListener, querySelector and this. keyword
 
 Hope you like it!
